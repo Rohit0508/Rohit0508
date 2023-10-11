@@ -1,6 +1,5 @@
 
 ### Hi Geek!! 
-<p align = "left"> <img src = "https://komarev.com/ghpvc/?username=Rohit0508" alt = "Rohit0508" /> </p>
 
 - 👋 I’m Rohit Singh, 3rd year Undergraduate at MNNIT.
 - 💻 I love doing competitive programming and learning new algorithms.
