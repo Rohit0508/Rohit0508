@@ -7,7 +7,9 @@
 - 🌱 I’m currently learning AI and ML 
 - ⚡ Hobby - History, Politics, Movies, Anime
 - 📫 You can contact me through email - rohitsingh.bigahi@gmail.com
-
+<a href="https://github.com/Rohit0508/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Rohit0508&style=for-the-badge">
+</a>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Rohit0508&show_icons=true&count_private=true&theme=radical"]</p>
 
 ### My Social Media Handles
