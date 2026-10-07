@@ -2,7 +2,6 @@
 ### Hi Geek!! 
 
 - 👋 I’m Rohit Singh, 3rd year Undergraduate at MNNIT.
-- 💻 I love doing competitive programming and learning new algorithms.
 - 🌱 I'm exploring different fields in software development and learning new skills.
 - 🌱 I’m currently learning AI and ML 
 - ⚡ Hobby - History, Politics, Movies, Anime
